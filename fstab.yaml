@@ -1,5 +1,7 @@
 mountpoints:
   /:
-    url: "https://author-p97303-e890303.adobeaemcloud.com/bin/franklin.delivery/Nikhil22bhatt/universal-editor-getting/main"
+    url: "mountpoints:
+  /:
+    url: https://author-p97303-e890303.adobeaemcloud.com/content/universal-editor-getting-site/"
     type: "markup"
     suffix: ".html"
