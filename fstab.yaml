@@ -2,6 +2,6 @@ mountpoints:
   /:
     url: "mountpoints:
   /:
-    url: https://author-p97303-e890303.adobeaemcloud.com/content/universal-editor-getting-site/"
+    url: "https://author-p97303-e890303.adobeaemcloud.com/content/universal-editor-getting-site/"
     type: "markup"
     suffix: ".html"
