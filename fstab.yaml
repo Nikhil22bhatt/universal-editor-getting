@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p97303-e890303.adobeaemcloud.com/ui#/aem/sites.html/content/"
+    url: "https://author-p97303-e890303.adobeaemcloud.com/ui#/aem/sites.html/content"
     type: "markup"
     suffix: ".html"
